@@ -1,5 +1,7 @@
 # ChatGPT Prompts
 
+Useful materials for creating prompts for ChatGPT
+
 ## List of resources
 
 1. <a href="https://github.com/f/awesome-chatgpt-prompts">Awesome ChatGPT Prompts</a>
