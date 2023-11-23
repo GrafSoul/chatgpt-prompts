@@ -29,6 +29,11 @@ Useful materials for creating prompts for ChatGPT
 10. <a href="https://habr.com/ru/articles/728984/">Промпт-инженер: какие навыки освоить, чтобы зарабатывать на ChatGPT</a>
 11. <a href="https://habr.com/ru/companies/ru_mts/articles/745038/">Prompt-инженер как новый тренд. Требования и зарплаты у специалистов</a>
 
+## Courses
+1. <a href="https://www.udemy.com/course/trend-spotter/">ChatGPT 101: Learn ChatGPT Prompts & ChatGPT Smart Tips</a>
+2. <a href="https://www.udemy.com/course/chatgpt-prompt-engineering-for-beginners/">ChatGPT Prompt Engineering : 2100+ Prompts & 32 AI Tools</a>
+3. <a href="https://learnwithhasan.com/prompt-engineering-course/">Become a Prompt Engineer: Go From Zero to Scripting AI Workflows!</a>
+
 ## List of prompts
 <b>1. PromptGenerator</b>
 
