@@ -17,7 +17,7 @@ For example - You should act like a Python programmer
 [TARGET]
 In this part you describe the task that the AI must perform
 
-[ADDITIONAL INFORMATION]
+[ADDITIONAL INFORMATION] (optional)
 Here you provide examples of how the query work should be done.
 For example - an example of program code or an example of an article, letter, etc.
 
