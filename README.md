@@ -77,7 +77,8 @@ I want you to become my Prompt Creator. Your goal is to help me craft the best p
 6. <a href="https://www.tooltester.com/en/blog/best-chatgpt-prompts/#ChatGPT_Prompts_for_Sales_and_Marketing_Use_Cases" target="_blank">70+ Best ChatGPT Prompts</a>
 7. <a href="https://writesonic.com/blog/chatgpt-prompts" target="_blank">215+ ChatGPT prompts you can’t miss to try out in 2023</a>
 8. <a href="https://learnprompting.org/docs/intro" target="_blank">Learn Prompting</a>
-9. <a href="https://www.promptingguide.ai" target="_blank">Prompt Engineering Guide</a>
+9.  <a href="https://www.promptingguide.ai" target="_blank">Prompt Engineering Guide</a>
+10. <a href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" target="_blank">BlackFriday-GPTs-Prompts</a>
 
 ## Статьи (на русском языке)
 1. <a href="https://habr.com/ru/articles/758520/" target="_blank">Как работать с GPT-4 с помощью продвинутых промтов</a>
