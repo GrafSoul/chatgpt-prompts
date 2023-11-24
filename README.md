@@ -41,9 +41,21 @@ but this is a general instruction, not a specific task
 
 ### Useful techniques when writing queries
 
-1. A fairly useful technique is to indicate the following phrase at the end of the request after clarification - ```Act step by step``` or ```Carry out step by step```
+1. A fairly useful technique is to indicate the following phrase at the end of the request after clarification - 
+ ```
+(select any one that best suits the context of the request)
 
-2. Carry out the work in two stages, first ask the AI to collect information on the information you are interested in on the topic you need. After he completes this, begin executing the request.
+- Act step by step
+- Follow the steps one by one
+- Take action step by step
+- Proceed incrementally
+- Act gradually and sequentially
+- Perform each step in sequence
+- Execute the process step by step
+- Carry out step by step
+```
+
+1. Carry out the work in two stages, first ask the AI to collect information on the information you are interested in on the topic you need. After he completes this, begin executing the request.
 
 
 ## List of prompts
