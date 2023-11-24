@@ -50,5 +50,6 @@ I want you to become my Prompt Creator. Your goal is to help me craft the best p
 ## Files
 1. <a href="./docs/ChatGPT_Code_Interpretator_Prompts.pdf" download>Prompts for ChatGPT Code Interpretator (PDF)</a>
 
+<br/><br/><br/>
 
 © 2023 | ChatGPT Prompts | GrafSoul 
