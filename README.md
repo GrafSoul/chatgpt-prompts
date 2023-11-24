@@ -22,7 +22,7 @@ Useful materials for creating prompts for ChatGPT
 3. <a href="https://habr.com/ru/companies/otus/articles/774046/" target="_blank">100 промптов для ChatGPT</a>
 4. <a href="https://habr.com/ru/articles/765126/" target="_blank">Как написать идеальный запрос для ChatGPT</a>
 5. <a href="https://habr.com/ru/articles/775070/" target="_blank">OpenAI GPTs: пошаговое руководство для создания с практическими примерами, ACTIONS и внешние API</a>
-6. <a href="https://habr.com/ru/articles/729420/"target="_blank">Хакнуть ChatGPT. Учимся делать правильные запросы для использования в маркетинге</a>
+6. <a href="https://habr.com/ru/articles/729420/" target="_blank">Хакнуть ChatGPT. Учимся делать правильные запросы для использования в маркетинге</a>
 7. <a href="https://habr.com/ru/articles/735354/" target="_blank">Применяем «колдовство» prompt injection против Гендальфа</a>
 8. <a href="https://habr.com/ru/companies/wunderfund/articles/760526/" target="_blank">Реверс-инжиниринг промптов for fun and (no) profit</a>
 9. <a href="https://habr.com/ru/articles/599673/" target="_blank">GPT для чайников: от токенизации до файнтюнинга</a>
