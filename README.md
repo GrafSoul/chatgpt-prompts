@@ -41,7 +41,9 @@ but this is a general instruction, not a specific task
 
 ### Useful techniques when writing queries
 
-1. A fairly useful technique is to indicate the following phrase at the end of the request after clarification - 
+1. If your task is quite complex, ask the AI at the end of the request to ask you the necessary questions to complete it. If the AI feels that it has not received enough information to complete a task, it will definitely ask you for it.
+
+2. A fairly useful technique is to indicate the following phrase at the end of the request after clarification - 
  ```
 (select any one that best suits the context of the request)
 
@@ -55,7 +57,7 @@ but this is a general instruction, not a specific task
 - Carry out step by step
 ```
 
-1. Carry out the work in two stages, first ask the AI to collect information on the information you are interested in on the topic you need. After he completes this, begin executing the request.
+3. Carry out the work in two stages, first ask the AI to collect information on the information you are interested in on the topic you need. After he completes this, begin executing the request.
 
 
 ## List of prompts
