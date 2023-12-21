@@ -79,6 +79,10 @@ I want you to become my Prompt Creator. Your goal is to help me craft the best p
 8. <a href="https://learnprompting.org/docs/intro" target="_blank">Learn Prompting</a>
 9.  <a href="https://www.promptingguide.ai" target="_blank">Prompt Engineering Guide</a>
 10. <a href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" target="_blank">BlackFriday-GPTs-Prompts - 7000+ Prompts</a>
+11. <a href="https://huggingface.co/spaces/doevent/prompt-generator" target="_blank">Midjourney Prompt Generator</a>
+12. <a href="https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion" target="_blank">Stable Diffusion Prompt Generator</a>
+13. <a href="https://aigenprompt.vercel.app/" target="_blank">AI Prompt Generator</a>
+14. <a href="https://prompthero.com/" target="_blank">Prompthero</a>
 
 ## Статьи (на русском языке)
 1. <a href="https://habr.com/ru/articles/758520/" target="_blank">Как работать с GPT-4 с помощью продвинутых промтов</a>
