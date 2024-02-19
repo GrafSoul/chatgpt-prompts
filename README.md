@@ -83,6 +83,7 @@ I want you to become my Prompt Creator. Your goal is to help me craft the best p
 12. <a href="https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion" target="_blank">Stable Diffusion Prompt Generator</a>
 13. <a href="https://aigenprompt.vercel.app/" target="_blank">AI Prompt Generator</a>
 14. <a href="https://prompthero.com/" target="_blank">Prompthero</a>
+15. <a href="https://www.aiforwork.co/" target="_blank">AI for Work | 2000+ Advanced ChatGPT Prompts for Professionals</a>
 
 ## Статьи (на русском языке)
 1. <a href="https://habr.com/ru/articles/758520/" target="_blank">Как работать с GPT-4 с помощью продвинутых промтов</a>
